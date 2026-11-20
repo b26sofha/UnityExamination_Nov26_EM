@@ -222,7 +222,7 @@ GameObject:
   - component: {fileID: 906761763}
   - component: {fileID: 906761762}
   m_Layer: 0
-  m_Name: Square
+  m_Name: Backdrop
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -314,7 +314,7 @@ GameObject:
   - component: {fileID: 1350703051}
   - component: {fileID: 1350703050}
   m_Layer: 0
-  m_Name: Text (TMP)
+  m_Name: Backstory
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -499,7 +499,7 @@ GameObject:
   - component: {fileID: 2076392323}
   - component: {fileID: 2076392322}
   m_Layer: 0
-  m_Name: mellowplatformerparalax_0
+  m_Name: Background
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
